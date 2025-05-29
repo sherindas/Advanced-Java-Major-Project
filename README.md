@@ -65,7 +65,7 @@ This project is a **Hospital Patient Management System** developed using **Advan
 ## 🧑‍⚕️ Report by Doctor Name
 
 - **Search by Doctor Name Form**  
-  ![Doctor Search](https://github.com/sherindas/Advanced-Java-Major-Project/blob/main/ScreenShots/SearchByDoctor.png)
+  ![Doctor Search](https://github.com/sherindas/Advanced-Java-Major-Project/blob/main/ScreenShots/SearchByDoctor1.png)
 
 - **Doctor-wise Report Result**  
   ![Doctor Report Result](https://github.com/sherindas/Advanced-Java-Major-Project/blob/main/ScreenShots/DoctorSearchDisplay.png)
